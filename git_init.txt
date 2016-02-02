@@ -3,3 +3,8 @@ right clic -> git bash here
 in cmd:
 	- git init (makes an empty folder .git)
 	- full info out of the web : git pull https://github.com/camille1/git
+	- modify a doc
+	- git add -A (everything)
+	- git commit -m "changed the read"
+	- git remote add origin https://github.com/camille1/git
+	-git push -u origin master
