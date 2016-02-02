@@ -1,0 +1,5 @@
+right clic -> git bash here
+
+in cmd:
+	- git init (makes an empty folder .git)
+	- full info out of the web : git pull https://github.com/camille1/git
