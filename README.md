@@ -11,3 +11,5 @@
 - git remote add origin https://github.com/camille1/git.git
 - git push -u origin master
 
+- in git shell (right clik)
+**ssh-keygen -t rsa -C "mail@gmail.com"
